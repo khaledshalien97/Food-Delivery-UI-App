@@ -33,6 +33,7 @@ flutter:
 
   assets:
     - asset/images/
+    - asset/screenshot/
    
 
   # An image asset can refer to one or more resolution-specific "variants", see
